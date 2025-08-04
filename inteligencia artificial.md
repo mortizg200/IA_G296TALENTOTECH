@@ -43,4 +43,7 @@ env\scripts\activate
 
     Crear archivo requirements.txt
     pip freeze > requirements.txt
-    
+    clonar repositorio
+https://github.com/mortizg200/IA_G296TALENTOTECH.git
+    como desactivar el entorno virtual 
+    >deactivate
