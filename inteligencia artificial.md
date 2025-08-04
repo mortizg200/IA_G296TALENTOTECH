@@ -31,6 +31,16 @@ pip install pandas
 python intpandas.py 
 pip list
 manejo de git
->git init
-
+git init
+git add .
+git commit -m
+si sale error 
+    git config --global user.email "you@example.com"
+    git config --global user.name "Your Name"
 ```
+si se desactiva el env
+env\scripts\activate
+
+    Crear archivo requirements.txt
+    pip freeze > requirements.txt
+    
