@@ -47,3 +47,6 @@ env\scripts\activate
 https://github.com/mortizg200/IA_G296TALENTOTECH.git
     como desactivar el entorno virtual 
     >deactivate
+# Para recuperar librerias 
+con env ejecutado aplicamos
+pip install -r requirements.txt
