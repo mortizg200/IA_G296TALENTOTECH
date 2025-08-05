@@ -27,6 +27,7 @@ escriba S
 # Creación de onjetos serie
 s= pd.Series([2,3,4,6,8,10])
 print(s)
+```
 pip install pandas
 python intpandas.py 
 pip list
