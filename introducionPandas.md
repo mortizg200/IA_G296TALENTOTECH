@@ -29,3 +29,17 @@ print(s)
 s= pd.Series([2,3,4,6,8,10])
 print(s)
 ```
+```
+# Acceso a los Elementos de un objeto Series
+#cada elelmento de objeto series tiene un identificador unico
+s=pd.Series([2,4,6,8],index=["num2","num3","num4","num5"])
+print(s)
+# Accediendo al tercer elemento del objeto
+print(s["num3"])
+# aceder por la posición 
+print(s.iloc[2])
+print(s.loc["num3"])
+#accediendo al segundo y tercer elemento por posición
+print(s.iloc[2:4])
+
+```
